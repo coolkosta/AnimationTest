@@ -49,9 +49,6 @@ class ObjectAnimatorActivity : AppCompatActivity() {
                 .setDuration(600)
                 .setInterpolator(LinearInterpolator())
                 .start()
-
-
         }
-
     }
 }
